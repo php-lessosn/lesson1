@@ -12,5 +12,5 @@ if ($user["email"] === $email && $password === $user["password"]) {
     echo "Auth fail";
 }
 
-
+$value = "1";
 
